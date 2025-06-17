@@ -1,2 +1,2 @@
-# embeddedSystem-project
+# embeddedSystem_project
 HY10109_class_2025_spring
